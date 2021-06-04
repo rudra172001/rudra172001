@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rudra_patel
-- 👀 I’m intrested in learning c c++ java python 
-- 🌱 I’m currently learning: computer science engineering student
+- 👀 I’m a tech freak and programer  
+- 🌱 I’m currently  computer science engineering student
 - 📫 How to reach me ... +919429926988
 
 <!---
